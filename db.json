@@ -1,3 +1,17 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [],
+      "id": 1696204411951,
+      "content": "tagless note"
+    },
+    {
+      "tags": [
+        "test",
+        " note"
+      ],
+      "id": 1696204424985,
+      "content": "my note"
+    }
+  ]
 }
